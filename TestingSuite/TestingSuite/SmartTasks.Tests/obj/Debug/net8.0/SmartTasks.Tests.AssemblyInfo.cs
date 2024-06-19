@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartTasks.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b46eab68da94d6cb4ce9aa3c0a70c07af71a70bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcce299801c01f61a3e30b9e20115a6d753a591c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartTasks.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartTasks.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

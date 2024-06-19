@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkUtility", "NetworkUt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkUtility.Tests", "NetworkUtility.Tests\NetworkUtility.Tests.csproj", "{53B85019-5E10-460F-A8C9-79B65CFD93BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunGroopWebApp", "RunGroopWebApp\RunGroopWebApp.csproj", "{A4C1AE51-D787-4534-8028-29AA5A41DFDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunGroopWebApp.Tests", "RunGroopWebApp.Tests\RunGroopWebApp.Tests.csproj", "{ACD11BDA-016D-4DFA-9B50-0A2EB2E479C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{53B85019-5E10-460F-A8C9-79B65CFD93BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53B85019-5E10-460F-A8C9-79B65CFD93BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53B85019-5E10-460F-A8C9-79B65CFD93BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4C1AE51-D787-4534-8028-29AA5A41DFDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C1AE51-D787-4534-8028-29AA5A41DFDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C1AE51-D787-4534-8028-29AA5A41DFDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C1AE51-D787-4534-8028-29AA5A41DFDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD11BDA-016D-4DFA-9B50-0A2EB2E479C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD11BDA-016D-4DFA-9B50-0A2EB2E479C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD11BDA-016D-4DFA-9B50-0A2EB2E479C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD11BDA-016D-4DFA-9B50-0A2EB2E479C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
