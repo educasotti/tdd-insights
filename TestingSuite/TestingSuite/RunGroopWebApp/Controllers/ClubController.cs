@@ -101,7 +101,7 @@ namespace RunGroopWebApp.Controllers
 
         [HttpGet]
         [Route("club/{runningClub}/{id}")]
-        public async Task<IActionResult> DetailClub(int id, string runningClub)
+        public async Task<IActionResult> DetailClub(int id)
         {
             var club = await _clubRepository.GetByIdAsync(id);
 
