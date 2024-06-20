@@ -224,3 +224,4 @@ C:\workspaces\tdd-insights\TestingSuite\TestingSuite\RunGroopWebApp.Tests\obj\De
 C:\workspaces\tdd-insights\TestingSuite\TestingSuite\RunGroopWebApp.Tests\obj\Debug\net8.0\RunGroopWebApp.Tests.pdb
 C:\workspaces\tdd-insights\TestingSuite\TestingSuite\RunGroopWebApp.Tests\obj\Debug\net8.0\RunGroopWebApp.Tests.genruntimeconfig.cache
 C:\workspaces\tdd-insights\TestingSuite\TestingSuite\RunGroopWebApp.Tests\obj\Debug\net8.0\ref\RunGroopWebApp.Tests.dll
+C:\workspaces\tdd-insights\TestingSuite\TestingSuite\RunGroopWebApp.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6ZFew94GvaAt8JMJO8+fSTPOryc1r2nIkBsj7fHDUZGYHXhD3jojnnsXEKIGFWftij3GptIqm4Y13uRphWpgoA==",
+  "dgSpecHash": "1ABPfmKn7jEI6KAkILx7e/kzHYweGxNC/0t9aIt4iMXDlz/P+5lP0m9orPXn/egn3S6qgfUZwJctCunZi0M7ow==",
   "success": true,
   "projectFilePath": "C:\\workspaces\\tdd-insights\\TestingSuite\\TestingSuite\\RunGroopWebApp.Tests\\RunGroopWebApp.Tests.csproj",
   "expectedPackageFiles": [
@@ -27,10 +27,11 @@
     "C:\\Users\\casot\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\casot\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.5\\microsoft.data.sqlclient.5.1.5.nupkg.sha512",
     "C:\\Users\\casot\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.1\\microsoft.data.sqlclient.sni.runtime.5.1.1.nupkg.sha512",
-    "C:\\Users\\casot\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",
-    "C:\\Users\\casot\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.4\\microsoft.entityframeworkcore.abstractions.8.0.4.nupkg.sha512",
-    "C:\\Users\\casot\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.4\\microsoft.entityframeworkcore.analyzers.8.0.4.nupkg.sha512",
+    "C:\\Users\\casot\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.6\\microsoft.entityframeworkcore.8.0.6.nupkg.sha512",
+    "C:\\Users\\casot\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.6\\microsoft.entityframeworkcore.abstractions.8.0.6.nupkg.sha512",
+    "C:\\Users\\casot\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.6\\microsoft.entityframeworkcore.analyzers.8.0.6.nupkg.sha512",
     "C:\\Users\\casot\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.4\\microsoft.entityframeworkcore.design.8.0.4.nupkg.sha512",
+    "C:\\Users\\casot\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.6\\microsoft.entityframeworkcore.inmemory.8.0.6.nupkg.sha512",
     "C:\\Users\\casot\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.4\\microsoft.entityframeworkcore.relational.8.0.4.nupkg.sha512",
     "C:\\Users\\casot\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.4\\microsoft.entityframeworkcore.sqlserver.8.0.4.nupkg.sha512",
     "C:\\Users\\casot\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.4\\microsoft.entityframeworkcore.tools.8.0.4.nupkg.sha512",
